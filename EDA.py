@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-batting = pd.read_csv('data/Batting.csv')
+batting = pd.read_csv('data/BattingPost.csv')
 batting = batting[batting['yearID'] > 1980]
 batting = batting[batting['yearID'] < 2020]
 batting
@@ -32,7 +32,7 @@ ax.bar(hr_per_team.index, hr_per_team.values)
 plt.show()
 
 
-salaries = pd.read_csv('data/core/Salaries.csv')
+salaries = pd.read_csv('data/Salaries.csv')
 salaries = salaries[salaries['yearID'] > 2000]
 salaries = salaries[salaries['salary'] > 0]
 salaries
