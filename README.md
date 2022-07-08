@@ -4,7 +4,7 @@
 
 ### UC Berkeley Data 102 (Data, Inference, and Decisions) Final Project - Fall 2021
 
-#### Contributers: Noah Kaminer, Jonathon Wang, Rodrigo Cochran
+#### Contributors: Noah Kaminer, Jonathon Wang, Rodrigo Cochran
 
 ### Research Question 1: Can one predict if a pitcher is chosen to be an All-Star in a given year based on pitching statistics?
 
